@@ -1,0 +1,18 @@
+﻿{
+  Information: {
+    Author: Robert Goetz,
+    Creator: Microsoft® Word 2021,
+    Producer: Microsoft® Word 2021,
+    CreationDate: DateTimeOffset_1,
+    ModifiedDate: DateTimeOffset_1
+  },
+  Pages: [
+    {
+      Size: A4,
+      Text:
+Hi, this is just a test. We need some text here, that does not change. Sometimes a timestamp
+changes, but this should be fine. Written DateTime_1.
+
+    }
+  ]
+}
